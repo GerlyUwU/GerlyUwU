@@ -8,13 +8,39 @@
             <li>🔭 Estudio la carrera de ingenieria de software</li>
             <li>👨‍🎓 Estoy aprendiendo fronted con react por el momento </li>
             <li>💬 Siempre dispuesto a charlar acerca del trabajo </li>
-            <li>📫 Contacto: arteaga.bernal4@gmail.com</li>
             <li>💼 En busca de pasantias (y de chambas)</li>
             <li> ⚽ Arriva las chivas del Guadalajara 🐐</li>
+            <li>📫 Puedes contactarme a traves de mis redes sociales 😁👇🏻 </li> 
         </ul>
     </h3>
 </header>
 <hr>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gerlyuwu/">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width = 50>
+</a>
+
+<a href="https://twitter.com/GerlyUwu">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/nolan/40/twitter.png"width = 50>
+</a>
+
+<a href="https://www.instagram.com/atoledeflan33/?hl=es">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png" width = 50>
+</a>
+
+<a href="https://t.me/GerlyUwU">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"width = 50>
+</a>
+
+<a href="https://discord.gg/rk732zukvs">
+<img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"width = 50>
+</a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"width = 50>
+</a>
+</p>
 <div align="center">
     <h2 align="center">Tecnologias que uso:</h2>
     <div align="center">
@@ -38,19 +64,22 @@
     </div>
 </div>
 <hr>
+ <h2 align="center">Estadisticas de GitHub:</h2>
 <footer align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=francojimenezcopati&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojimenezcopati&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+        <img src="https://github-readme-stats.vercel.app/api?username=GerlyUwU&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerlyUwU&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerlyUwU&theme=radical" alt="HrugVed" height="250">
     </p>
+    <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="serpiente en el tablero de contribuciones alaverga" />
+</p>
 </footer>
 
 ------
 
-Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
-Last Edited on: 10/01/2024
 
-![GerlyUwU's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerlyUwU&show_icons=true&hide_border=true&line_height=20&theme=github_dark)
 <!--
 **GerlyUwU/GerlyUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
