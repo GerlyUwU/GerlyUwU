@@ -1,12 +1,17 @@
 ### Hi there 👋
+
+
+<strong>📊 My Github Stats :</strong><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GerlyUwU-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GerlyUwU-Jie&theme=radical&hide_border=true"/><br><br>
+
+
+
+
 <strong>💡 My Languages :</strong><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerlyUwU"/>
 
 
-
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GerlyUwU-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
-</div>
 
 
 
