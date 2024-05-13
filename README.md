@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hola a todos  👋 
+<br>
 <strong>Acerca de mi :</strong><br>
 💻 Actualmente estoy estudiando ingenieria de software en la universidad veracruzana<br>
 📚 Estoy en sexto semestre de la carrera <br>
