@@ -14,7 +14,8 @@
 
 
 <strong>💡 Estadisticas de lenguajes en mi github: :</strong><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerlyUwU"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GerlyUwU}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api?username={GerlyUwU}&theme=blue-green"/>
 
 
 
