@@ -1,9 +1,12 @@
-# Hola a todos  👋 
+# Hola 👋 
+<br>
+### Soy Gerly Arteaga y este es mi perfil de GitHub.
 <br>
 <strong>Acerca de mi :</strong><br>
 💻 Actualmente estoy estudiando ingenieria de software en la universidad veracruzana<br>
 📚 Estoy en sexto semestre de la carrera <br>
 📈 Estoy aprendiendo desarrollo web del lado del fronted y siempre estoy en busca de nuevas cosas que aprender<br>
+<br>
 🏆 Top geis de la uv: 
 <ul>
   <li>Carlos</li>
