@@ -67,10 +67,9 @@
  <h2 align="center">Estadisticas de GitHub:</h2>
 <footer align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerlyUwU&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+        <img src="https://github-readme-stats.vercel.app/api?username=GerlyUwU&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" height="250">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerlyUwU&theme=radical" alt="HrugVed" height="250">
     </p>
-    <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="serpiente en el tablero de contribuciones alaverga" />
 </p>
@@ -80,6 +79,10 @@
 
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true">
+src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true"
+<img src="https://github-readme-stats.vercel.app/api?username=GerlyUwU&include_all_commits=true&show_icons=true&theme=radical" height="250">
+![GerlyUwU's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerlyUwU&show_icons=true&hide_border=true&line_height=20&theme=radical)
  <img src="https://github-readme-stats.vercel.app/api?username=GerlyUwU&include_all_commits=true&show_icons=true&theme=radical" height="250">
 **GerlyUwU/GerlyUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
