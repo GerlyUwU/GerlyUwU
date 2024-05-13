@@ -1,14 +1,19 @@
 ### Hi there 👋
+<strong>Acerca de mi :</strong><br>
+💻 Actualmente estoy estudiando ingenieria de software en la universidad veracruzana<br>
+📚 Estoy en sexto semestre de la carrera <br>
+📈 Estoy aprendiendo desarrollo web del lado del fronted y siempre estoy en busca de nuevas cosas que aprender<br>
+🏆 Top geis de la uv: 
+<ul>
+  <li>Carlos</li>
+  <li>josue </li>
+  <li>cortes</li>
+  <li>Lopez</li>
+</ul>
 
 
-<strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GerlyUwU-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GerlyUwU-Jie&theme=radical&hide_border=true"/><br><br>
 
-
-
-
-<strong>💡 My Languages :</strong><br><br>
+<strong>💡 Estadisticas de lenguajes en mi github: :</strong><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerlyUwU"/>
 
 
