@@ -1,9 +1,12 @@
 ### Hi there 👋
+<strong>💡 My Languages :</strong><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerlyUwU"/>
 
 
 
-
+<strong>🚀 My Latest Update :</strong><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GerlyUwU-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+</div>
 
 
 
