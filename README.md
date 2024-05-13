@@ -1,6 +1,6 @@
 # Hola 👋 
 <br>
-### Soy Gerly Arteaga y este es mi perfil de GitHub.
+<h3> Soy Gerly Arteaga y este es mi perfil de GitHub.</h3> 
 <br>
 <strong>Acerca de mi :</strong><br>
 💻 Actualmente estoy estudiando ingenieria de software en la universidad veracruzana<br>
