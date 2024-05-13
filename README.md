@@ -68,7 +68,8 @@
 <footer align="center">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=GerlyUwU&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" height="250">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerlyUwU&theme=radical" alt="HrugVed" height="250">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerlyUwU&theme=midnight-purple" alt="HrugVed" height="250">
+        <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GerlyUwU&layout=compact&theme=midnight-purple" height="250">
     </p>
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="serpiente en el tablero de contribuciones alaverga" />
