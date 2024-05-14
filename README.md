@@ -1,15 +1,15 @@
 <img id='gif' align="right" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="240">
 <header align="left">
-    <h1 align="left">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
-      <h3>🤝Me presento, mi nombre es Gerly Arteaga y soy programador.</h3>
-      <h3>😼Ahora un poco sobre mi:</h3>
+      <h3>🤝Me presento, mi nombre es Gerly Daniel  Arteaga  Bernal y soy programador.</h3>
+      <h3>😼Algunas cosas  sobre mi:</h3>
         <ul>
-            <li>🔭 Estudio la carrera de ingenieria de software</li>
-            <li>👨‍🎓 Estoy aprendiendo fronted con react por el momento </li>
+            <li>👨‍🎓Estudio la carrera de ingenieria de software </li>
+            <li>🔭  Estoy aprendiendo fronted con react por el momento</li>
             <li>💬 Siempre dispuesto a charlar acerca del trabajo </li>
             <li>💼 En busca de pasantias (y de chambas)</li>
-            <li> ⚽ Arriva las chivas del Guadalajara 🐐</li>
+            <li> 🎹 Mi instrumento favorito es el piano</li>
             <li>📫 Puedes contactarme a traves de mis redes sociales 😁👇🏻 </li> 
         </ul>
     </h3>
