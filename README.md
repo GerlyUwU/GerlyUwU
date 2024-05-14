@@ -71,6 +71,13 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerlyUwU&theme=midnight-purple" alt="HrugVed" height="250">
         <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GerlyUwU&layout=compact&theme=midnight-purple" height="250">
     </p>
+    <h2 align="center">¡Untete a a la comunidad de discord! </h2>
+        <p align="center">
+    <a align="center" href="https://discord.gg/rk732zukvs">
+<img border="0" alt="discor baner" src="https://imgur.com/BFadrXe.jpg" width = "750">
+</a>
+</p>
+    <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="serpiente en el tablero de contribuciones alaverga" />
 </p>
@@ -80,6 +87,7 @@
 
 
 <!--
+https://imgur.com/BFadrXe
 <img src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true">
 src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true"
 <img src="https://github-readme-stats.vercel.app/api?username=GerlyUwU&include_all_commits=true&show_icons=true&theme=radical" height="250">
