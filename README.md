@@ -1,8 +1,8 @@
-<img id='gif' align="right" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="240">
+<img id='gif' align="right" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="240"/>
 <header align="left">
     <h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
-      <h3>🤝Me presento, mi nombre es Gerly Daniel  Arteaga  Bernal y soy programador.</h3>
+      <h3>🤝Me presento, mi nombre es Gerly Daniel  Arteaga  Bernal<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> y soy estudiante de software engineer.</h3>
       <h3>😼Algunas cosas  sobre mi:</h3>
         <ul>
             <li>👨‍🎓Estudio la carrera de ingenieria de software </li>
@@ -81,6 +81,7 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="serpiente en el tablero de contribuciones alaverga" />
 </p>
+     <p align="center"><img src="https://komarev.com/ghpvc/?username=GerlyUwU&style=flat-square&color=blue" alt=""></p>
 </footer>
 
 ------
