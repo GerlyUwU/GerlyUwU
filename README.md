@@ -2,7 +2,7 @@
 <header align="left">
     <h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
-      <h3>🤝Me presento, mi nombre es Gerly Daniel  Arteaga  Bernal<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> y soy estudiante de software engineer.</h3>
+      <h3>🤝Me presento, mi nombre es Gerly Daniel  Arteaga  Bernal<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> y soy estudiante de ingenieria de software.</h3>
       <h3>😼Algunas cosas  sobre mi:</h3>
         <ul>
             <li>👨‍🎓Estudio la carrera de ingenieria de software </li>
